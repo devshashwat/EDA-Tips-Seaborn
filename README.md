@@ -5,3 +5,4 @@ I've tried to extract insight about the relationship between different factors, 
 I've tried to use mdoern and functional graphs in order to extract and present these insights. 
 I've also tried to use information from the workshops as it was relevant for the given dataset.
 
+Plotly with Dash Output Screenshot is also given.
